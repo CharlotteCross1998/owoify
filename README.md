@@ -13,7 +13,7 @@ This program will (attempt) to create a backup of source files, in case anything
 
 # Compatibility
 
-Currently, the program only works with .inc files. I have tested this program with the pokeemerald repository and it works fine.
+Currently, the program only works with .inc files. I have tested this program with the pokeemerald repository and it works fine. Tested on python 3.10.9. If it doesn't work with other versions, either put in an issue or a pull request with fixes.
 
 It currently has issues with files that have `[]` in them, as it replaces text between them. I have attempted to fix this to no avail. For example:
 
