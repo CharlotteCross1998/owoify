@@ -41,6 +41,9 @@ You can help by fixing the following issues/bugs, or by implementing new feature
 - Fixing the [] issue
 - Testing and finding bugs with other languages
 - excludeLines only fire in events for their language (e.g #include isn't checked in a java source file)
+- Modularise it by adding a function for your specific language compatibility fix
+
+If you fix a bug for a specific language, please make sure to add the source file extension to the fileExts list, make sure the fix uses a function and edit the readme to show it has compatibility with that language
 
 # Screenshots
 ![Image of pokemon emerald. Will add alt text later](pokeemerald.png)
