@@ -48,5 +48,5 @@ If you fix a bug for a specific language, please make sure to add the source fil
 An example can be found in the source code, in the function `def editInc(line):`. 
 
 # Screenshots
-![Image of pokemon emerald. Will add alt text later](pokeemerald.png)
-![Image of pokemon emerald owoified. Will add alt text later](pokeemerald_owo.png)
+![Image of pokemon emerald with the original text that says "welcome to the world of pokemon"](pokeemerald.png)
+![Image of pokemon emerald with owoified text that says "welwomwe two teh world of pwokemon"](pokeemerald_owo.png)
