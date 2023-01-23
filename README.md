@@ -5,9 +5,9 @@ owoify your source code!
 
 Install requirements via `pip install -r requirements.txt`
 
-Then run the program in the directory of your source code to owoify it via `python3 owoify.py`.
+Then run the program in the directory of your source code to owoify it via `python3 uwuify.py`.
 
-Alternatively, if you wish to only edit a single file you can use the `--file` argument. E.g `python3 owoify.py --file main.cpp`
+Alternatively, if you wish to only edit a single file you can use the `--file` argument. E.g `python3 uwuify.py --file main.cpp`
 
 This program will (attempt) to create a backup of source files, in case anything goes wrong.
 
